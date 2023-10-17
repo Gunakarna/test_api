@@ -1,0 +1,21 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Eshwar",
+            "Location":"chennai"
+        },
+        {
+            "id":2,
+            "name":"Kumar",
+            "Location":"madurai"
+        },
+        {
+            "id":3,
+            "name":"ragu",
+            "Location":"coimbatore"
+        }
+    ]
+    
+    
+}
