@@ -1,0 +1,27 @@
+{
+   
+    "results": [
+        {
+  
+           "id": 1,
+            "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission ",
+            "poster_path": "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+            "title": "Mission: Impossible - Dead Reckoning Part One",
+            "vote_average": 7.7
+            },
+        { "id": 2,
+         "overview": "Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.",
+         "poster_path": "https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+         "title": "The Equalizer 3",
+         "vote_average": 7.3
+       
+    },
+    {    "id": 3,
+    "original_title": "Leo",
+    "overview": " Leo has been released in theatres today and the film got a massive response from fans With the extensive love showered by the movie audience for the Lokesh Kanagaraj directorial ",
+    "poster_path": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJj0Jlw-pErVfnJLzguRBidcejgntK-NVnJGqRq4EKtSdW7U40",
+    "title": "Leo",
+   "vote_average": 8.4
+    
+  }
+        ]}
