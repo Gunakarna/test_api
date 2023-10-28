@@ -61,52 +61,43 @@
             "poster_path": " https://img.studioflicks.com/wp-content/uploads/2023/05/14124832/Good-Night-Movie-HQ-Posters-5-600x900.jpg "
             },
 
-           { "id": 10,
-           "title": " Captain Miller ",
-           "vote_average": "",
-            "overview": " ",
-            "poster_path": "  "
-            },
-
-           { "id": 11,
-           "title": "  ",
-           "vote_average": "",
-            "overview": " ",
-            "poster_path": "  "
-            },
-             
-         { "id": 12,
-           "title": " ",
-           "vote_average": "",
-            "overview": " ",
-            "poster_path": "  "
-            },
-          { "id": 13,
-           "title": "  ",
-           "vote_average": "",
-            "overview": " ",
-            "poster_path": "  "
-            },
-         { "id": 14,
-           "title": "  ",
-           "vote_average": "",
-            "overview": " ",
-            "poster_path": "  "
-            },
-            
-          { "id": 15,
-           "title": "  ",
-           "vote_average": "",
-            "overview": " ",
-            "poster_path": "  "
-            },
+          { "id": 10,
+            "title": " Captain Miller ",
+            "vote_average": " ",
+             "overview": " Set in 1930s-1940s in Bristish India and follows an outlaw called miller who engages in bloody loots,heists and assaults",
+             "poster_path":"https://upload.wikimedia.org/wikipedia/en/1/1c/Captain_Miller_film_poster.jpg "
+             },
  
+            { "id": 11,
+            "title": " Japan ",
+            "vote_average": " ",
+             "overview": "apan is an upcoming Indian Tamil-language crime comedy film directed by Raju Murugan and produced by S. R. Prabhu under Dream Warrior Pictures. The film stars Karthi and Anu Emmanuel. ",
+             "poster_path": "https://upload.wikimedia.org/wikipedia/en/d/de/Japan_2023_poster.jpg "
+             },
 
-
-
-
-
-
-
-
-] }
+             { "id": 12,
+             "title": "Vaadivasal  ",
+             "vote_average": "",
+              "overview": "Picchi and Marudan take part in the annual bull-taming contest at the Chellaiyi festival at Periyapatti hoping to subdue a ferocious Kaari bull that had defeated Picchi's father",
+              "poster_path": " https://tamilexpress.in/wp-content/uploads/2020/07/vadivasal-070720-400.jpg"
+              },
+              { "id": 13,
+              "title": " Ayalaan",
+              "vote_average": "",
+               "overview": " A lost alien seeks help to go back to his home, but everything gets harder after the alien returns to its home.",
+               "poster_path": "https://upload.wikimedia.org/wikipedia/en/d/de/Ayalaan_poster.jpg "
+               },
+               { "id": 14,
+               "title": " Indian 2 ",
+               "vote_average": "",
+                "overview": "Senapathy, an ex-freedom fighter turned vigilante who fights against corruption. Senapathy returns to the country to aid a young man who has been exposing ",
+                "poster_path": "https://upload.wikimedia.org/wikipedia/en/6/6f/Indian_2_poster.jpg "
+                },
+        { "id": 15,
+        "title": " Kanguva",
+        "vote_average": "",
+         "overview": " Kanguva, also known and marketed as Kanguva: A Mighty Valiant Saga, is an upcoming Indian Tamil-language period action drama film ",
+        "poster_path": "https://firebasestorage.googleapis.com/v0/b/crud-app-ff9c4.appspot.com/o/Screenshot%202023-10-29%20001755.png?alt=media&token=0a7e156a-9356-42f1-8516-ab5389dfdafe&_gl=1*ra2ubt*_ga*NDUyNTM1NjM5LjE2OTc5OTI4NTU.*_ga_CW55HF8NVT*MTY5ODUxODYwNC4xMC4xLjE2OTg1MTkwMDIuMzguMC4w "
+                 }
+ 
+    ] }
