@@ -59,6 +59,54 @@
            "vote_average": 7.5,
             "overview": " a man from a middle-class family, faces problems in life due to his snoring. couple overcome his sleeping problem while living together ",
             "poster_path": " https://img.studioflicks.com/wp-content/uploads/2023/05/14124832/Good-Night-Movie-HQ-Posters-5-600x900.jpg "
-            }
+            },
+
+           { "id": 10,
+           "title": " Captain Miller ",
+           "vote_average": "",
+            "overview": " ",
+            "poster_path": "  "
+            },
+
+           { "id": 11,
+           "title": "  ",
+           "vote_average": "",
+            "overview": " ",
+            "poster_path": "  "
+            },
+             
+         { "id": 12,
+           "title": " ",
+           "vote_average": "",
+            "overview": " ",
+            "poster_path": "  "
+            },
+          { "id": 13,
+           "title": "  ",
+           "vote_average": "",
+            "overview": " ",
+            "poster_path": "  "
+            },
+         { "id": 14,
+           "title": "  ",
+           "vote_average": "",
+            "overview": " ",
+            "poster_path": "  "
+            },
+            
+          { "id": 15,
+           "title": "  ",
+           "vote_average": "",
+            "overview": " ",
+            "poster_path": "  "
+            },
+ 
+
+
+
+
+
+
+
 
 ] }
