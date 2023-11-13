@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/crud-app-ff9c4.appspot.com/o/IMG-20231022-WA0040.jpg?alt=media&token=32468b69-6986-42eb-a326-7bcd72b6fb23");
+    background-size:contain;
+ 
+  background-color: rgb(188, 150, 103);
+  background-position: center;
+    font-family: Arial, sans-serif;
+}
+
+.calculator {
+    background: rgb(47, 65, 59);
+    margin: 100px auto;
+    padding: 20px;
+    width: 280px;
+    border-radius: 25px;
+    margin-top: 85px;
+    height:auto;
+}
+
+input[type="text"] {
+    width: 90%;
+    padding: 10px;
+    margin: 5px 0;
+    font-size: 30px;
+    color: rgb(238, 231, 231);
+    border-radius: 20px;
+}
+.buttons{
+    padding: 10px;
+   
+}
+.buttons button {
+    width: 50px;
+    height: 50px;
+    margin: 5px;    
+    font-size: 28px;
+    background-color: rgb(13, 56, 56);
+   
+    border-radius: 50%;
+    background: transparent;
+    color: #ffffff;
+    font-size: 30px;
+    box-shadow: rgb(161, 183, 95);
+    cursor: pointer;
+}
+
+.buttons  .equalBtn{
+    background-color: #fb7c14;
+}
+.buttons .operator{
+    color: #6dee0a;
+}
+.buttons .delete{
+    font-size: 20px;
+}
+
+
+@media (max-width: 480px) {
+.calculator{
+    background: rgb(47, 65, 59);
+    opacity: 1.05;
+    margin-top: 135px;
+    height: auto;
+    width: 290px;
+}
+body{
+    background-size:100px;
+}
+input[type="text"] {
+   font-size: 31px;
+    color: rgb(28, 20, 20);
+    border-radius: 20px;
+    width: 90%;
+}
+
+}
+    
