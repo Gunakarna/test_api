@@ -2,6 +2,44 @@
    
     "results": [
 
+        {
+    "id": 1,
+  "title": "Animal",
+  "vote_average": 7.4,
+  "overview":"A father, who is often away due to work, is unable to comprehend the intensity of his son's love. Ironically, this fervent love and admiration for his father and family creates conflict between the father and son.",
+  "poster_path":"https://upload.wikimedia.org/wikipedia/en/9/90/Animal_%282023_film%29_poster.jpg"
+  },
+
+  {
+    "id": 1,
+  "title": "Dhruva Natchathiram",
+  "vote_average": 5.1,
+  "overview":"a New York-based undercover agent and his team is entrusted with a secret mission to bring back the leader of the team who has gone missing mysteriously",
+  "poster_path":"https://upload.wikimedia.org/wikipedia/en/3/33/Dhruva_Natchathiram_Chapter_One_Yuddha_Kaandam.jpg"
+  },
+
+  {
+    "id": 1,
+  "title": "Kuiko",
+  "vote_average": 6,
+  "overview":"A commoner who rears camels in Saudi Arabia for a living. When his mother passes away in his hometown, he asks for her mortal remains to be preserved in a freezer box",
+  "poster_path":"https://upload.wikimedia.org/wikipedia/en/e/e4/Kuiko_poster.jpg"
+  },
+
+  {
+    "id": 1,
+  "title": "Parking",
+  "vote_average": 5.7,
+  "overview":"An elderly man and a youngster who are tenants sharing two different floors of an individual house fight over a parking space.An elderly man and a youngster who are tenants sharing two different floors of an individual house fight over a parking space",
+  "poster_path":"https://upload.wikimedia.org/wikipedia/commons/6/6e/Parking_2023_film_theatrical_release_poster.jpg"
+  },
+
+
+
+
+
+       
+
        { "id": 1,
   "title": "Leo",
   "vote_average": 8.4,
