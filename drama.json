@@ -1,137 +1,113 @@
 {
    
-  "results": [
-    
-  {
-    "id": 1,
-  "title": "Animal",
-  "vote_average": 7.4,
-  "overview":"A father, who is often away due to work, is unable to comprehend the intensity of his son's love. Ironically, this fervent love and admiration for his father and family creates conflict between the father and son.",
-  "poster_path":"https://upload.wikimedia.org/wikipedia/en/9/90/Animal_%282023_film%29_poster.jpg"
-  },
+    "results": [
 
-  {
-    "id": 1,
-  "title": "Dhruva Natchathiram",
-  "vote_average": 5.1,
-  "overview":"a New York-based undercover agent and his team is entrusted with a secret mission to bring back the leader of the team who has gone missing mysteriously",
-  "poster_path":"https://upload.wikimedia.org/wikipedia/en/3/33/Dhruva_Natchathiram_Chapter_One_Yuddha_Kaandam.jpg"
-  },
-
-  {
-    "id": 1,
-  "title": "Kuiko",
-  "vote_average": 6,
-  "overview":"A commoner who rears camels in Saudi Arabia for a living. When his mother passes away in his hometown, he asks for her mortal remains to be preserved in a freezer box",
-  "poster_path":"https://upload.wikimedia.org/wikipedia/en/e/e4/Kuiko_poster.jpg"
-  },
-
-  {
-    "id": 1,
-  "title": "Parking",
-  "vote_average": 5.7,
-  "overview":"An elderly man and a youngster who are tenants sharing two different floors of an individual house fight over a parking space.An elderly man and a youngster who are tenants sharing two different floors of an individual house fight over a parking space",
-  "poster_path":"https://upload.wikimedia.org/wikipedia/commons/6/6e/Parking_2023_film_theatrical_release_poster.jpg"
-  },
-
-
-
-  { "id": 1,
-  "title": "Leo",
-  "vote_average": 8.4,
- "overview": " Leo has been released in theatres today and the film got a massive response from fans With the extensive love showered by the movie audience for the Lokesh Kanagaraj directorial ",
-  "poster_path": "https://wallpapercave.com/wp/wp12185319.jpg"
-},
-  {"id": 2,
-      "title": " Por Thozhil",
-      "vote_average": 8,
-       "overview": " A bright but faint-hearted rookie cop has to overcome his fears in order to succeed in his first case which sees him partnered with a reclusive senior officer to catch a serial killer on the loose ",
-       "poster_path": " https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/be/fd/7b/befd7b99-3c2b-38fe-11a1-24e803cdf43f/197189085833.jpg/592x592bb.webp"
-      },
-   { 
-      "id": 3,
-   "title": " Jailer",
-   "vote_average": 7.3,
-    "overview": " Muthuvel Pandian, a stern yet compassionate jailer, sets out to stop a gang when they try to flee their leader from prison.",
-    "poster_path": " https://upload.wikimedia.org/wikipedia/en/c/cb/Jailer_2023_Tamil_film_poster.jpg"
-  },
-
-   { "id": 4,
-   "title": "Viduthalai Part 1 ",
-   "vote_average": 7.9,
-    "overview": "A police officer is recruited to capture the leader of a separatist group",
-    "poster_path": " https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2320926-af20-47c8-9501-d5212d80991f_658x808.jpeg"
-    },
-    { "id": 5,
-    "title": "Chithha ",
-    "vote_average": 8.3,
-     "overview": "A man is raising his niece like his own daughter, and everything appears normal in their life until the little girl goes missing ",
-     "poster_path": "https://images.moviebuff.com/f43eda98-fff7-442f-bc5d-857e28de9b6a?w=1000 "
-     },
-   
-     { "id": 6,
-     "title": " Mark Antony ",
-     "vote_average": 6.8,
-      "overview": "Mark, the son of a former gangster, comes across a mobile phone that can time-travel. Using the phone, Mark acquires the ability to save his estranged mother from a grim fate but with dangerous consequences. ",
-      "poster_path": " https://static.toiimg.com/thumb/msid-91779869,width-219,height-317,imgsize-136430/91779869.jpg"
-      },
-      { "id": 7,
-      "title": "Dada",
-      "vote_average": 8.2,
-       "overview": " A college student embraces fatherhood and provides unconditional care and love to his child while facing the challenges",
-       "poster_path": " https://www.tamil2lyrics.com/wp-content/uploads/2022/06/Dada.webp"
-       },
-       { "id": 8,
-       "title": "DD Returns",
-       "vote_average": 6.3,
-        "overview": "A group of friends hides a bag full of money and jewels in a haunted bungalow to ditch the police ",
-        "poster_path": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlokbABPaVFEDm_2mDx3nbODx0ilHsLtpomtiDQrQw5OOKLPPu "
+     {    "id": 1,
+        "title": " Jawan",
+        "overview": " A prison warden recruits inmates to commit outrageous crimes that shed light on corruption and injustice — and that lead him to an unexpected  ",
+        "poster_path": "https://upload.wikimedia.org/wikipedia/en/3/39/Jawan_film_poster.jpg",
+        "vote_average": 7.5
+        
         },
-       
-         { "id": 9,
-         "title": " Good Night ",
-         "vote_average": 7.5,
-          "overview": " a man from a middle-class family, faces problems in life due to his snoring. couple overcome his sleeping problem while living together ",
-          "poster_path": " https://img.studioflicks.com/wp-content/uploads/2023/05/14124832/Good-Night-Movie-HQ-Posters-5-600x900.jpg "
-          },
 
-        { "id": 10,
-          "title": " Captain Miller ",
-          "vote_average": 0,
-           "overview": " Set in 1930s-1940s in Bristish India and follows an outlaw called miller who engages in bloody loots,heists and assaults",
-           "poster_path":"https://upload.wikimedia.org/wikipedia/en/1/1c/Captain_Miller_film_poster.jpg "
-           },
-
-          { "id": 11,
-          "title": " Japan ",
-          "vote_average": 0,
-           "overview": "apan is an upcoming Indian Tamil-language crime comedy film directed by Raju Murugan and produced by S. R. Prabhu under Dream Warrior Pictures. The film stars Karthi and Anu Emmanuel. ",
-           "poster_path": "https://upload.wikimedia.org/wikipedia/en/d/de/Japan_2023_poster.jpg "
-           },
-
-           { "id": 12,
-           "title": "Vaadivasal  ",
-           "vote_average": 0,
-            "overview": "Picchi and Marudan take part in the annual bull-taming contest at the Chellaiyi festival at Periyapatti hoping to subdue a ferocious Kaari bull that had defeated Picchi's father",
-            "poster_path": " https://tamilexpress.in/wp-content/uploads/2020/07/vadivasal-070720-400.jpg"
-            },
-            { "id": 13,
-            "title": " Ayalaan",
-            "vote_average": 0,
-             "overview": " A lost alien seeks help to go back to his home, but everything gets harder after the alien returns to its home.",
-             "poster_path": "https://upload.wikimedia.org/wikipedia/en/d/de/Ayalaan_poster.jpg "
-             },
-             { "id": 14,
-             "title": " Indian 2 ",
-             "vote_average": 0,
-              "overview": "Senapathy, an ex-freedom fighter turned vigilante who fights against corruption. Senapathy returns to the country to aid a young man who has been exposing ",
-              "poster_path": "https://upload.wikimedia.org/wikipedia/en/6/6f/Indian_2_poster.jpg "
-              },
-      { "id": 15,
-      "title": " Kanguva",
-      "vote_average": 0,
-       "overview": " Kanguva, also known and marketed as Kanguva: A Mighty Valiant Saga, is an upcoming Indian Tamil-language period action drama film ",
-      "poster_path": "https://firebasestorage.googleapis.com/v0/b/crud-app-ff9c4.appspot.com/o/Screenshot%202023-10-29%20001755.png?alt=media&token=0a7e156a-9356-42f1-8516-ab5389dfdafe&_gl=1*ra2ubt*_ga*NDUyNTM1NjM5LjE2OTc5OTI4NTU.*_ga_CW55HF8NVT*MTY5ODUxODYwNC4xMC4xLjE2OTg1MTkwMDIuMzguMC4w "
-               }
-
-  ] }
+  {    "id": 2,
+  "title": "Maaveeran",
+  "overview": "Much of the film is set in a government-sponsored resettlement complex and the central issue is the crumbling infrastructure provided to its ... ",
+  "poster_path": " https://upload.wikimedia.org/wikipedia/en/5/55/Maaveeran_2023_poster.jpg",
+  "vote_average": 7.3
+  
+  },
+  {    "id": 3,
+  "title": "Regina",
+  "overview": "Regina is an upright and straightforward girl whose world revolves around her father. However, things change when her father gets killed ",
+  "poster_path": " https://upload.wikimedia.org/wikipedia/en/1/10/Regina_film_poster.jpeg",
+  "vote_average": 5.3
+  
+  },
+  {    "id": 4,
+  "title": " Takkar",
+  "overview": " An ambitious young man meets a wealthy woman who wants to escape her world. Together, they embark on a dangerous journey with unexpected twists.",
+  "poster_path": "https://upload.wikimedia.org/wikipedia/en/2/29/Takkar_2023_poster.jpg",
+  "vote_average": 6.3
+  
+  },
+  {    "id": 5,
+  "title": " Pichaikkaran 2",
+  "overview": " Sathya is a poor man in search of his sister, who has been kidnapped by human traffickers. However, an illegal brain transplant puts him in the shoes of a billionaire named Vijay",
+  "poster_path": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm94MCfY6J704bWh5W4o0CPCP_nQWU1OXPRjPHF0ebVDyX4lYT",
+  "vote_average": 5.6
+  
+  },
+  {    "id": 6,
+  "title": " Bommai",
+  "overview": " A man falls in love with a mannequin, imagining it to be his childhood sweetheart. Will he reunite with his one true ..",
+  "poster_path": " https://upload.wikimedia.org/wikipedia/en/3/39/Bommai_%282023_film%29.jpg",
+  "vote_average": 7
+  
+  },
+  {    "id": 7,
+  "title": " Farhana",
+  "overview": " Middle-class mother Farhana takes a call centre job due to her financial situation. Although this gives her freedom, it ",
+  "poster_path": " https://upload.wikimedia.org/wikipedia/en/6/6c/Farhana_film_poster.jpg",
+  "vote_average": 6.6
+  
+  },
+  {    "id": 8,
+  "title": "Lucky Man",
+  "overview": " Follows a man as he sets out to find out what real luck is about.Follows a man as he sets out to find out what real luck is about.Follows a man as he sets ... ",
+  "poster_path": "https://upload.wikimedia.org/wikipedia/en/8/89/Lucky_Man_%282023_film%29.jpg",
+  "vote_average": 6.3
+  
+  },
+  {    "id": 9,
+  "title": "Bommai Nayagi",
+  "overview": " Set in the coastal region of Cuddalore, the film also stars child artiste Srimathi. It's about how society, and politics affect their livelihood . ",
+  "poster_path": "https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/bommainayagi-20220722111222-21144.jpg",
+  "vote_average": 5.9
+  
+  },
+  {    "id": 10,
+  "title": "Iraivan",
+  "overview": " A city lives in fear of a psychotic killer, and confidence in the police wanes. Arjun and Andrew finally arrest the killer, but he escapes and chaos reigns ... ",
+  "poster_path": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTXY3RUuNbyOSkWwxT5Lq4a3QoLgXs-XJ-NR7FJNaHO-AnFK6W ",
+  "vote_average": 4.7
+  
+  },
+  {    "id": 11,
+  "title": "Are You Ok Baby?",
+  "overview": " Here, Shobha and Thyagi cannot raise the child, the law is against Vidhya and Balan, and so the future of the child hangs with uncertainty.",
+  "poster_path": " https://upload.wikimedia.org/wikipedia/en/f/f7/Are_You_Ok_Baby.jpg ",
+  "vote_average": 8.8
+  
+  },
+  {    "id": 12,
+  "title": " Pathaan",
+  "overview": " Indian RAW agent “Pathaan” (Shah Rukh Khan) gets to know of a major impending attack against India, mounted by a mercenary group led by the ruthless enigma ... ",
+  "poster_path": "https://upload.wikimedia.org/wikipedia/en/c/c3/Pathaan_film_poster.jpg ",
+  "vote_average": 7.3
+  
+  },
+  {    "id": 13,
+  "title": " Adipurush",
+  "overview": " A modern adaptation of the Indian epic Ramayana which follows the exiled prince Raghav's journey to rescue his wife Janaki from the raakshash king Lankesh. ",
+  "poster_path": "https://upload.wikimedia.org/wikipedia/en/c/cf/Adipurush_poster.jpeg",
+  "vote_average": 5.1
+  
+  },
+  {    "id": 14,
+  "title": "Infinity ",
+  "overview": " A series of murders happens in a City (Chennai), which is investigated by CBI Officer Evvi Ilavalavan (Natty Natraj). Will he find the answers for the question ... ",
+  "poster_path": " https://i0.wp.com/moviegalleri.net/wp-content/uploads/2023/07/Natty-Natraj-Infinity-Tamil-Movie-Poster.jpg?ssl=1",
+  "vote_average": 4.3
+  
+  },
+  {    "id": 15,
+  "title": " Paramporul ",
+  "overview": " aramporul Movie Synopsis: Aadhi, who desperately needs money to save his sister, happens to meet a self-centric police officer, Mythreyan, .",
+  "poster_path": " https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/fe/dd/9bfedd64-5e45-c416-114e-cd70253e6662/cover.jpg/592x592bb.webp",
+  "vote_average": 5.4
+  
+  }
+  
+  
+    ]}
