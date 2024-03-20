@@ -1,41 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://gunakarna.github.io/test_api/style.css">
-    <title>Calculator</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chcky Love</title>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+
+  .text-container {
+    position: relative;
+  }
+
+  .text {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff0000;
+    opacity: 0;
+    animation: fadeIn 1s ease forwards, slideUp 2s ease forwards 1s;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes slideUp {
+    from {
+      transform: translateY(100%);
+    }
+    to {
+      transform: translateY(0);
+    }
+  }
+</style>
 </head>
 <body>
-    <div class="calculator">
-        <div class="output">
-            <input type="text" id="display" disabled>
-        </div>
-        <div class="buttons">
-            <button class="number" onclick="addToDisplay('7')">7</button>
-            <button class="number" onclick="addToDisplay('8')">8</button>
-            <button class="number" onclick="addToDisplay('9')">9</button>
-            <button class="operator" onclick="addToDisplay('+')">+</button>
-            <button class="number" onclick="addToDisplay('4')">4</button>
-            <button class="number" onclick="addToDisplay('5')">5</button>
-            <button class="number" onclick="addToDisplay('6')">6</button>
-            <button class="operator" onclick="addToDisplay('-')">-</button>
-            <button class="number" onclick="addToDisplay('1')">1</button>
-            <button class="number" onclick="addToDisplay('2')">2</button>
-            <button class="number" onclick="addToDisplay('3')">3</button>
-            <button class="operator" onclick="addToDisplay('*')">*</button>
-            <button class="number" onclick="addToDisplay('00')">00</button>
-            <button class="number" onclick="addToDisplay('.')">.</button>
-            <button class="delete" onclick="deleteDisplay()">DEl</button>
-            <button class="operator" onclick="addToDisplay('%')">%</button>
-            <button class="clear" onclick="clearDisplay(' ')">C</button>
-            <button class="number" onclick="addToDisplay('0')">0</button>
-            <button class="operator" onclick="addToDisplay('/')">/</button>
-            <button class="equalBtn" onclick="calculate()">=</button>
-        
-            
-        </div>
-    </div>
+<div class="text-container">
+  <div class="text">No more Chcky app Love is gone</div>
+</div>
 </body>
-<script src="https://firebasestorage.googleapis.com/v0/b/crud-app-53ae9.appspot.com/o/calculator%2Fscript.js?alt=media&token=349f18b3-e5d7-49b2-9d23-43da688042d8"></script>
 </html>
