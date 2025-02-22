@@ -26,6 +26,12 @@
     "vote_average": 7.5,
     "poster_path": " https://firebasestorage.googleapis.com/v0/b/karnaappsgk.appspot.com/o/MoviesData_images%2F512px-Kudumbasthan.webp?alt=media&token=54cdaec5-7991-4e08-97e3-e9861b00b84e "
     },
+        { "id": 1,
+    "title": "Amaran",
+    "overview": "The movie is a great tribute to Major Mukund Varadarajan and his patriotism, no doubt! But I have a different perspective of the movie, The love between Mukund❤Indu,",
+    "vote_average": 8.5,
+    "poster_path": "https://imgs.search.brave.com/0fzSJ9ZAJLTM47ejzyGTIipCdaSE2HWlGJF3UkEIcQE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50aGVtb3ZpZWRi/Lm9yZy90L3AvdzUz/M19hbmRfaDMwMF9i/ZXN0djIveGxqTGU0/VGlRTDFiNHNUNzk1/NklHZ2oydnJmLmpw/Zw"  
+       } ,
      
     { "id": 8,
     "title": "Thangalaan ",
