@@ -2,6 +2,31 @@
    
   "results": [
 
+   { "id": 1,
+    "title": " Dragon ",
+    "overview": " Dragon is a comedy drama that centres on a young man who indulges in fraud after a breakup to make i",
+    "vote_average": 6.5,
+    "poster_path": "https://firebasestorage.googleapis.com/v0/b/karnaappsgk.appspot.com/o/MoviesData_images%2F236098-dragon.jpeg?alt=media&token=68800da7-bf86-42f5-86fd-4f7d91fc461a "
+    },
+    { "id": 1,
+    "title": "Nilavuku Enmel Ennadi Kobam",
+    "overview": " 'Nilavuku En Mel Ennadi Kobam' offers a light-hearted take on modern relationships, blending humor with relatable themes. While it may not delve deep into emotional complexities",
+    "vote_average": 5.5,
+    "poster_path": "https://firebasestorage.googleapis.com/v0/b/karnaappsgk.appspot.com/o/MoviesData_images%2FNilavuku_En_Mel_Ennadi_Kobam_poster.webp?alt=media&token=32fb30e9-19fe-4af9-8fa9-43c00e6844f9 "
+    },
+    { "id": 4,
+    "title": " Vidaamuyarchi",
+    "overview": "  'Vidaamuyarchi' is a Tamil action thriller  a couple on the brink of divorce, who embark on a road trip that takes a perilous turn when Kayal goes missing, prompting Arjun to undertake a desperate search.",
+    "vote_average": 6.2,
+    "poster_path": " https://firebasestorage.googleapis.com/v0/b/karnaappsgk.appspot.com/o/MoviesData_images%2FVidaamuyarchi.webp?alt=media&token=7b8ffc4e-03db-4048-9e73-0a3d62cca7a1"
+    },
+    { "id": 5,
+    "title": " Kudumbasthan ",
+    "overview": " 'Kudumbasthan' has been well-received for its humorous portrayal of middle-class struggles, bolstered by strong performances and relatable storytelling ",
+    "vote_average": 7.5,
+    "poster_path": " https://firebasestorage.googleapis.com/v0/b/karnaappsgk.appspot.com/o/MoviesData_images%2F512px-Kudumbasthan.webp?alt=media&token=54cdaec5-7991-4e08-97e3-e9861b00b84e "
+    },
+     
     { "id": 8,
     "title": "Thangalaan ",
     "overview": "Based on the true events that revolve around the lives of mine workers in the Kolar Gold Fields, Karnataka. ",
