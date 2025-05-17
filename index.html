@@ -3,39 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://gunakarna.github.io/test_api/style.css">
-    <title>Calculator</title>
+    <title>Document</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: Arial, sans-serif;
+            background-color: #cba5a5;
+        }
+
+        #message {
+            display: none;
+            font-size: 24px;
+            color: #333;
+        }
+
+        #loader {
+            font-size: 20px;
+            color: gray;
+        }
+    </style>
 </head>
 <body>
-    <div class="calculator">
-        <div class="output">
-            <input type="text" id="display" disabled>
-        </div>
-        <div class="buttons">
-            <button class="number" onclick="addToDisplay('7')">7</button>
-            <button class="number" onclick="addToDisplay('8')">8</button>
-            <button class="number" onclick="addToDisplay('9')">9</button>
-            <button class="operator" onclick="addToDisplay('+')">+</button>
-            <button class="number" onclick="addToDisplay('4')">4</button>
-            <button class="number" onclick="addToDisplay('5')">5</button>
-            <button class="number" onclick="addToDisplay('6')">6</button>
-            <button class="operator" onclick="addToDisplay('-')">-</button>
-            <button class="number" onclick="addToDisplay('1')">1</button>
-            <button class="number" onclick="addToDisplay('2')">2</button>
-            <button class="number" onclick="addToDisplay('3')">3</button>
-            <button class="operator" onclick="addToDisplay('*')">*</button>
-            <button class="number" onclick="addToDisplay('00')">00</button>
-            <button class="number" onclick="addToDisplay('.')">.</button>
-            <button class="delete" onclick="deleteDisplay()">DEl</button>
-            <button class="operator" onclick="addToDisplay('%')">%</button>
-            <button class="clear" onclick="clearDisplay(' ')">C</button>
-            <button class="number" onclick="addToDisplay('0')">0</button>
-            <button class="operator" onclick="addToDisplay('/')">/</button>
-            <button class="equalBtn" onclick="calculate()">=</button>
-        
-            
-        </div>
-    </div>
+    <div id="loader">Loading...</div>
+    <h2 id="message">Update App missing 143</h2>
+
+    <script>
+        // Wait for 3 seconds, then hide the loader and show the message
+        setTimeout(() => {
+            document.getElementById('loader').style.display = 'none';
+            document.getElementById('message').style.display = 'block';
+        }, 3000); // 3000 milliseconds = 3 seconds
+    </script>
 </body>
-<script src="https://firebasestorage.googleapis.com/v0/b/crud-app-53ae9.appspot.com/o/calculator%2Fscript.js?alt=media&token=349f18b3-e5d7-49b2-9d23-43da688042d8"></script>
 </html>
